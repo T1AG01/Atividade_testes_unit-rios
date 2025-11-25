@@ -1,0 +1,17 @@
+{
+  "name": "atividade-testes-unitarios",
+  "version": "1.0.0",
+  "description": "Atividade de Testes Unitários realizada durante o último ano do curso de Desenvolvimento de Sistemas no Senai - Boqueirão",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^30.2.0",
+    "node": "^25.2.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
